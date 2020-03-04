@@ -1,0 +1,21 @@
+{
+  "name": "01-prerequisites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.0"
+  },
+  "devDependencies": {
+    "karma": "^4.4.1",
+    "mocha": "^7.1.0",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.0"
+  }
+}

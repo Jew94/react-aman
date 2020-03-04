@@ -1,0 +1,16 @@
+{
+  "name": "02-react-introduction",
+  "version": "1.0.0",
+  "description": "We want to create an hello world app with React",
+  "main": "hello-react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
