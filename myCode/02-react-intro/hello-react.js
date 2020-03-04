@@ -1,2 +1,17 @@
-const h1=React.createElement('h1', null, 'React h1');
-ReactDOM.render(h1, document.getElementById('root'));
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+function App() {
+  return (
+    <div>
+      <h1>Test</h1>
+    </div>
+  )
+}
+
+// ========================================
+  
+ReactDOM.render(
+  <App />,
+  document.getElementById('root')
+); 
